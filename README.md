@@ -24,6 +24,11 @@
 <br>
 
 <div align="center">
-    
-![pp8817 github stats](https://github-readme-stats.vercel.app/api?username=pp8817&show_icons=true)
+
+[![pp8817's GitHub stats](https://github-readme-stats.vercel.app/api?username=pp8817)](https://github.com/pp8817/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pp8817)](https://solved.ac/pp8817/)
+
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pp8817)](https://github.com/pp8817/github-readme-stats)
+
+</div>

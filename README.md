@@ -6,9 +6,7 @@
 <br>
 
 <p align="center">
-
-<br><br>
-<Strong>📧Email📧</Strong><br>pp887@naver.com<br>
+<Strong>📧Email</Strong>: pp887@naver.com
 
 </p>
 

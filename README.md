@@ -3,7 +3,7 @@
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 <br>
-<Strong>💡기록</Strong>: <a href="https://velog.io/@pp8817">https://velog.io/@pp8817</a>
+<Strong>💡기록</Strong>: <a href="https://velog.io/@pp8817">https://velog.io/@pp8817</a> <br>
 <Strong>📧Email</Strong>: pp887@naver.com
 
 <br>

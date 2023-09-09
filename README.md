@@ -4,11 +4,7 @@
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 <br>
-
-<p align="center">
 <Strong>📧Email</Strong>: pp887@naver.com
-
-</p>
 
 <br>
 
@@ -21,7 +17,7 @@
    <br>
   
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
- ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) <img src="https://img.shields.io/badge/spring-#6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+ ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) <img src="https://img.shields.io/badge/SPRING-#6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </details>
 </i>
 

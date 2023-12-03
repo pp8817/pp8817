@@ -4,7 +4,7 @@
 
 <br>
 <Strong>💡기록</Strong>: <a href="https://velog.io/@pp8817">https://velog.io/@pp8817</a> <br>
-<Strong>📧Email</Strong>: pp887@naver.com
+<Strong>📧Email</Strong>: pp8817@naver.com
 
 <br>
 <br>

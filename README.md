@@ -1,6 +1,7 @@
 ### Hi, there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
 💡 스프링 백엔드를 공부하는 데이터과학 전공 대학생입니다.
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
+
 <br>
 <Strong>💡기록</Strong>: <a href="https://velog.io/@pp8817">https://velog.io/@pp8817</a> <br>
 <Strong>📧Email</Strong>: pp8817@naver.com

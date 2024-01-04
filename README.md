@@ -13,7 +13,7 @@
 <i>
 <details>
 <summary>
-  ⚒️ Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" />
+  ⚒️ 공부하는 기술들 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" />
 </summary>
 <br>
   

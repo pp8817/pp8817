@@ -3,8 +3,6 @@
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 <br>
-- [ ] 새로운 기능 추가
-<br>
 <Strong>💡기록</Strong>: <a href="https://velog.io/@pp8817">https://velog.io/@pp8817</a> <br>
 <Strong>📧Email</Strong>: pp8817@naver.com
 

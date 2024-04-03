@@ -43,3 +43,12 @@
 [![pp8817's GitHub stats](https://github-readme-stats.vercel.app/api?username=pp8817)](https://github.com/pp8817/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pp8817)](https://solved.ac/pp8817/)
 </div>
+
+
+# 🚀Project
+
+| Period                  | Title                                                                                                                                             | Description                                                                                | Experience                   | Tech Stack                                                                                    |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------- | --------------------------------------------------------------------------------------------- |
+| 2024.03.12 <br>~ <br>진행중      |   SUCAT                                                                                    | 게임, 친구추가, 채팅을 접목시킨 친목형 대학교 커뮤니티   | 한이음 ICT 멘토링  | Java, SpringBoot, Spring Data JPA, Spring Security <br> Web Socket, Redis, MySql, AWS EC2, AWS RDS                                                               |
+| 2024.03.10 <br>~ <br>진행중      | [스스Law](https://github.com/HanIum2024-AILawyer)                                           | 법률 문제를 스스로 해결할 수 있도록 하는 법률 상당 챗봇 서비스     | 한이음 ICT 멘토링                 | Java, SpringBoot, Spring Data JPA, Spring Security <br>SSE, Redis, PostgreSql, AWS EC2, AWS RDS                                |
+| 2024.01.5 <br>~ <br>2023.02.10 | [방학 프로젝트 - 쇼핑몰](https://github.com/Vacation-project)                                   | 협업 경험을 위한 첫프로젝트 시작, 옷 쇼핑몰  | 개인프로젝트                 | Java, SpringBoot, Spring Data JPA, Spring Security, MySql                                                                            |

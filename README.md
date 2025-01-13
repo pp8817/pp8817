@@ -10,8 +10,8 @@
 <br>
 
 <Strong>Certificate</Strong>
+- AWS Certified Solutions Architect Associate (SAA-C03)
 - SQLD
-- AWS Certified Solutions Architect Associate (AWS SAA-C03)
 
 <br>
 <br>

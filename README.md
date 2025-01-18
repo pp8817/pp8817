@@ -18,9 +18,9 @@
 - SQLD(SQL Developer) - 2024.06 취득
 
 <br>
-<Strong>⚒️ 공부하는 기술들<Strong>
+<Strong>⚒️ 공부하는 기술들</Strong>
 <br>
-  
+<i>
 <p>
   
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
+</i>
 <br>
 
 <div align="center">

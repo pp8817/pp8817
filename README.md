@@ -1,11 +1,6 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hi, there
 <Strong>Java, Spring 백엔드</Strong>를 공부하는 데이터과학 전공생입니다.
 
-- 협업하기 좋은 코드, 유지보수하기 좋은 코드를 위해서 계속해서 고민하고 분석합니다.
-- 유지보수하기 편한 코드가 가장 좋은 코드라고 생각합니다.
-- 블로그를 운영하고, 다양한 주제에 대해 포스팅 합니다.
-- 지식을 공유하고 소통하는 활동을 좋아하여 멘토-멘티, 스터디 활동을 추구합니다.
-
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 📧 Email: pp8817@naver.com <br>

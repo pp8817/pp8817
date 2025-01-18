@@ -1,17 +1,21 @@
-### Hi, there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
-💡 스프링 백엔드를 공부하는 데이터과학 전공 대학생입니다.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hi, there
+<Strong>Java, Spring 백엔드</Strong>를 공부하는 데이터과학 전공생입니다.
+
+- 협업하기 좋은 코드, 유지보수하기 좋은 코드를 위해서 계속해서 고민하고 분석합니다.
+- 유지보수하기 편한 코드가 가장 좋은 코드라고 생각합니다.
+- 블로그를 운영하고, 다양한 주제에 대해 포스팅 합니다.
+- 지식을 공유하고 소통하는 활동을 좋아하여 멘토-멘티, 스터디 활동을 추구합니다.
+
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
-<br>
-<Strong>💡Blog</Strong>: <a href="https://velog.io/@pp8817">https://velog.io/@pp8817</a> <br>
-<Strong>📧Email</Strong>: pp8817@naver.com
+📧 Email: pp8817@naver.com <br>
+📗 Blog: <a href="https://velog.io/@pp8817">https://velog.io/@pp8817</a> <br>
+Portfolio: [Notion Link](https://abiding-branch-9b1.notion.site/176dbad0f80a8000968ad724c97a77e5?pvs=4) <br>
 
-<br>
-<br>
-
-<Strong>Certificate</Strong>
-- AWS Certified Solutions Architect Associate (SAA-C03)
-- SQLD
+---
+<Strong>자격증</Strong>
+- <Strong>AWS Certified Solutions Architect Associate (SAA-C03)</Strong> - 2024.12 취득
+- <Strong>SQLD(SQL Developer)</Strong> - 2024.06 취득
 
 <br>
 <br>
@@ -36,9 +40,9 @@
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
 <br>
 
-<img src="https://img.shields.io/badge/QueryDSL-0094F5?style=for-the-badge&logo=spring&logoColor=white" /> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/QueryDSL-0094F5?style=for-the-badge&logo=spring&logoColor=white" /> 
 
 <br>
 <br>
@@ -61,6 +65,6 @@
 
 | Period                  | Title                                                                                                                                             | Description                                                                                | Experience                   | Tech Stack                                                                                    |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------- | --------------------------------------------------------------------------------------------- |
-| 2024.05.12 <br>~ <br> 2024.08.20 (지속적으로 리팩토링 중)      |   [SUCAT](https://github.com/Suwon-University-Community-SUCAT/Sucat-Server)                                | 게임, 친구/채팅을 접목시킨 친목형 대학교 커뮤니티 서비스   | BE 팀장  | Java17, SpringBoot3.0, Spring Data JPA, Spring Security <br> Web Socket, SSE, WebClient, Redis, MySQL, <br>AWS(EC2, RDS, S3, Route 53, ELB ...)                                                            |
-| 2024.05.10 <br>~ <br> 2024.09.02 (지속적으로 리팩토링 중)      | [스스Law](https://github.com/HanIum2024-AILawyer/SSL-Server)                                           | 법률 문제를 스스로 해결할 수 있도록 도움을 제공하는 법률 상담 챗봇 서비스     | BE 팀장<br>개발 동아리 Semicolon  | Java17, SpringBoot3.0, Spring Data JPA, Spring Security, OAuth 2.0 <br>Web Socket, Redis, MySQL, <br>AWS(EC2, RDS, ELB, DNS, IAM)                              |
-| 2024.01.5 <br>~ <br>2023.02.10 | [방학 프로젝트 - 쇼핑몰](https://github.com/Vacation-project/Server?tab=readme-ov-file)                                   | 협업 경험을 위한 첫프로젝트 시작, 옷 쇼핑몰  |   팀장 역할로 인원 모집, 팀프로젝트   | Java, SpringBoot3.0, Spring Data JPA, Spring Security, MySQL                                                                         |
+| 2024.05 <br>~ <br> 2024.11      |   [SUCAT](https://github.com/Suwon-University-Community-SUCAT/Sucat-Server)                                | 게임, 친구, 채팅을 접목시킨 친목형 대학교 커뮤니티 서비스   | BE 팀장  | Java17, SpringBoot3.0, Spring Data JPA, Spring Security, JWT <br> Redis, MySQL, H2, WebSocket, SSE, WebClient <br>AWS(EC2, RDS, S3, Route53, ELB ...)                                                            |
+| 2024.05 <br>~ <br> 2025.01      | [스스Law](https://github.com/HanIum2024-AILawyer/SSL-Server)                                           | 법률 문제를 스스로 해결할 수 있도록 도움을 제공하는 법률 상담 AI 서비스     | BE 팀장<br>AI-SW Developers 공모전 수상  | Java17, SpringBoot3.0, Spring Data JPA, Spring Security, OAuth 2.0, JWT <br>MySQL, Redis, WebSocket <br>AWS(EC2, RDS, Route53, ELB ...)                              |
+| 2024.01 <br>~ <br>2023.02 | [겨울 방학 프로젝트 - 쇼핑몰](https://github.com/Vacation-project/Server?tab=readme-ov-file)                                   | 협업 경험을 위해 시작한 첫 팀 프로젝트, 쇼핑몰 서비스  |   팀장 역할로 인원 모집, 팀 프로젝트   | Java, SpringBoot3.0, Spring Data JPA, Spring Security, MySQL                                                                         |

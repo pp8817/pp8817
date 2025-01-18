@@ -10,21 +10,15 @@
 
 📧 Email: pp8817@naver.com <br>
 📗 Blog: <a href="https://velog.io/@pp8817">https://velog.io/@pp8817</a> <br>
-Portfolio: [Notion Link](https://abiding-branch-9b1.notion.site/176dbad0f80a8000968ad724c97a77e5?pvs=4) <br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Portfolio: [Notion Link](https://abiding-branch-9b1.notion.site/176dbad0f80a8000968ad724c97a77e5?pvs=4) <br>
 
 ---
 <Strong>자격증</Strong>
-- <Strong>AWS Certified Solutions Architect Associate (SAA-C03)</Strong> - 2024.12 취득
-- <Strong>SQLD(SQL Developer)</Strong> - 2024.06 취득
+- AWS Certified Solutions Architect Associate (SAA-C03) - 2024.12 취득
+- SQLD(SQL Developer) - 2024.06 취득
 
 <br>
-<br>
-
-<i>
-<details>
-<summary>
-  ⚒️ 공부하는 기술들 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" />
-</summary>
+<Strong>⚒️ 공부하는 기술들<Strong>
 <br>
   
 <p>
@@ -48,9 +42,7 @@ Portfolio: [Notion Link](https://abiding-branch-9b1.notion.site/176dbad0f80a8000
 <br>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</details>
 </p>
-</i>
 
 <br>
 
@@ -61,7 +53,7 @@ Portfolio: [Notion Link](https://abiding-branch-9b1.notion.site/176dbad0f80a8000
 </div>
 
 
-# 🚀Project
+# 🚀 Project
 
 | Period                  | Title                                                                                                                                             | Description                                                                                | Experience                   | Tech Stack                                                                                    |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------- | --------------------------------------------------------------------------------------------- |

@@ -7,6 +7,13 @@
 📗 Blog: <a href="https://velog.io/@pp8817">https://velog.io/@pp8817</a> <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Portfolio: [Notion Link](https://abiding-branch-9b1.notion.site/176dbad0f80a8000968ad724c97a77e5?pvs=4) <br>
 
+<div align="center">
+  
+[![pp8817's GitHub stats](https://github-readme-stats.vercel.app/api?username=pp8817)](https://github.com/pp8817/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pp8817)](https://solved.ac/pp8817/)
+
+</div>
+
 ---
 <Strong>자격증</Strong>
 - AWS Certified Solutions Architect Associate (SAA-C03) - 2024.12 취득
@@ -40,13 +47,6 @@
 </p>
 </i>
 <br>
-
-<div align="center">
-
-[![pp8817's GitHub stats](https://github-readme-stats.vercel.app/api?username=pp8817)](https://github.com/pp8817/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pp8817)](https://solved.ac/pp8817/)
-</div>
-
 
 # 🚀 Project
 

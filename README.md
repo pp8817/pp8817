@@ -5,7 +5,7 @@
 
 📧 Email: pp8817@naver.com <br>
 📗 Blog: <a href="https://velog.io/@pp8817">https://velog.io/@pp8817</a> <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Portfolio: [Notion Link](https://abiding-branch-9b1.notion.site/176dbad0f80a8000968ad724c97a77e5?pvs=4) <br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Portfolio: [Notion Link](https://abiding-branch-9b1.notion.site/176dbad0f80a8000968ad724c97a77e5?pvs=4) (공사 중..) <br>
 
 <div align="center">
   

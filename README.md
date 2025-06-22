@@ -19,6 +19,12 @@
 - AWS Certified Solutions Architect Associate (SAA-C03) - 2024.12 취득
 - SQLD(SQL Developer) - 2024.06 취득
 
+</br>
+
+<Strong>🏆 수상 이력</Strong>
+- <Strong>AI-SW Developers 공모전 (2024)</Strong> – 우수상 수상 *(프로젝트: 스스Law)*
+- <Strong>수원대학교 창업 경진대회 제12회 (2025)</Strong> – 우수상 수상 *(프로젝트: 척척학사)*
+
 <br>
 <Strong>⚒️ 공부하는 기술들</Strong>
 <br>
@@ -51,8 +57,7 @@
 # 🚀 Project
 
 | Period                  | Title                                                                                                                                             | Description                                                                                | Experience                   | Tech Stack                                                                                    |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------- | --------------------------------------------------------------------------------------------- |
-| 2025.02 <br>~ <br> ing      |   [척척학사](https://github.com/pp8817/Chukchuk-haksa_Server)      | 수원대학교 졸업 요건 및 학점 이수 현황 확인 서비스 | BE 팀장  |     Java17, SpringBoot 3.2.5, Spring Data JPA, Spring Security, JWT <br> Redis, PostgreSQL, WebClient <br>AWS(EC2, RDS, Route53, ELB ...)                                                     |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------- | --------------------------------------------------------------------------------------------- |
+| 2025.02 <br>~ <br> ing      |   [척척학사](https://github.com/pp8817/Chukchuk-haksa_Server)      | 수원대학교 졸업 요건 및 학점 이수 현황 확인 서비스 | BE 팀장<br> <Strong>창업경진대회 12회 우수상</Strong>          |     Java17, SpringBoot 3.2.5, Spring Data JPA, Spring Security, JWT <br> Redis, PostgreSQL, WebClient <br>AWS(EC2, RDS, Route53, ELB ...)                                                     |
 | 2024.05 <br>~ <br> 2024.11      |   [SUCAT](https://github.com/Suwon-University-Community-SUCAT/Sucat-Server)                                | 게임, 친구, 채팅을 접목시킨 친목형 대학교 커뮤니티 서비스   | BE 팀장  | Java17, SpringBoot3.0, Spring Data JPA, Spring Security, JWT <br> Redis, MySQL, H2, WebSocket, SSE, WebClient <br>AWS(EC2, RDS, S3, Route53, ELB ...)                                                            |
-| 2024.05 <br>~ <br> 2025.01      | [스스Law](https://github.com/HanIum2024-AILawyer/SSL-Server)                                           | 법률 문제를 스스로 해결할 수 있도록 도움을 제공하는 법률 상담 AI 서비스     | BE 팀장<br>AI-SW Developers 공모전 수상  | Java17, SpringBoot3.0, Spring Data JPA, Spring Security, OAuth 2.0, JWT <br>MySQL, Redis, WebSocket <br>AWS(EC2, RDS, Route53, ELB ...)                              |
-| 2024.01 <br>~ <br>2023.02 | [겨울 방학 프로젝트 - 쇼핑몰](https://github.com/Vacation-project/Server?tab=readme-ov-file)                                   | 협업 경험을 위해 시작한 첫 팀 프로젝트, 쇼핑몰 서비스  |   팀장 역할로 인원 모집, 팀 프로젝트   | Java, SpringBoot3.0, Spring Data JPA, Spring Security, MySQL                                                                         |
+| 2024.05 <br>~ <br> 2025.01      | [스스Law](https://github.com/HanIum2024-AILawyer/SSL-Server)                                           | 법률 문제를 스스로 해결할 수 있도록 도움을 제공하는 법률 상담 AI 서비스     | BE 팀장<br><Strong>AI-SW Developers 공모전 우수상</Strong>  | Java17, SpringBoot3.0, Spring Data JPA, Spring Security, OAuth 2.0, JWT <br>MySQL, Redis, WebSocket <br>AWS(EC2, RDS, Route53, ELB ...)                              |

@@ -1,12 +1,14 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hi, there
-<Strong>Java, Spring 백엔드</Strong>를 공부하는 데이터과학 전공생입니다.
+## 백엔드 개발자 박상민입니다.
 
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
+<div>
+  <a href="https://velog.io/@pp8817/posts"><img src="https://img.shields.io/badge/Tech Blog-d14836?style=flat&logo=Velog&logoColor=white&color=#79D9B6"/></a>
+  <a href=""><img src="https://img.shields.io/badge/pp8817@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
+  <a href="https://abiding-branch-9b1.notion.site/176dbad0f80a8000968ad724c97a77e5?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white&color=000000"/></a>
+</div>
 
-📧 Email: pp8817@naver.com <br>
-📗 Blog: <a href="https://velog.io/@pp8817">https://velog.io/@pp8817</a> <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Portfolio: [Notion Link](https://abiding-branch-9b1.notion.site/176dbad0f80a8000968ad724c97a77e5?pvs=4) <br>
-
+<br>
 <div align="center">
   
 [![pp8817's GitHub stats](https://github-readme-stats.vercel.app/api?username=pp8817)](https://github.com/pp8817/github-readme-stats)
@@ -26,33 +28,46 @@
 - <Strong>수원대학교 창업 경진대회 제12회 (2025)</Strong> – 우수상 수상 *(프로젝트: 척척학사)*
 
 <br>
-<Strong>⚒️ 공부하는 기술들</Strong>
-<br>
-<i>
-<p>
-  
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-<br>
 
-![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-<br>
+### 🛠 Skills
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/QueryDSL-0094F5?style=for-the-badge&logo=spring&logoColor=white" /> 
+#### Main
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSql-4169E1?style=flat-square&logo=PostgreSql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" />
+</div>
 
-<br>
-<br>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-</i>
-<br>
+#### Sub
+<div>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QueryDSL-0094F5?style=flat-square&logo=QueryDSL&logoColor=white" /> 
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Amazon-F68F1E?style=flat&logo=Amazon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon--EC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon--RDS-527FFF?style=flat&logo=AmazonRDS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon--S3-569A31?style=flat&logo=AmazonS3&logoColor=white"/>  
+</div>
+
+#### Tool
+<div>
+  <img src="https://img.shields.io/badge/InteliJ-000000?style=flat&logo=InteliJ&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+</div>
 
 # 🚀 Project
 

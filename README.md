@@ -17,13 +17,13 @@
 </div>
 
 ---
-<Strong>자격증</Strong>
+### 자격증
 - AWS Certified Solutions Architect Associate (SAA-C03) - 2024.12 취득
 - SQLD(SQL Developer) - 2024.06 취득
 
 </br>
 
-<Strong>🏆 수상 이력</Strong>
+### 🏆 수상 이력
 - <Strong>AI-SW Developers 공모전 (2024)</Strong> – 우수상 수상 *(프로젝트: 스스Law)*
 - <Strong>수원대학교 창업 경진대회 제12회 (2025)</Strong> – 우수상 수상 *(프로젝트: 척척학사)*
 
@@ -68,6 +68,8 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 </div>
+
+---
 
 # 🚀 Project
 

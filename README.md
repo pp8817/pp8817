@@ -16,7 +16,7 @@
 <br>
 
 
-![Sangmin's GitHub stats](https://github-readme-stats-black-alpha-42.vercel.app/api?username=pp8817&theme=flag-india&show_icons=true)
+![Sangmin's GitHub stats](https://github-readme-stats-black-alpha-42.vercel.app/api?username=pp8817&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bbbbbb&icon_color=888888)
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pp8817" />
 
 

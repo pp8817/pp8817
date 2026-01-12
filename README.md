@@ -15,10 +15,10 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pp8817&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pp8817" />
-</div>
+
+![Sangmin's GitHub stats](https://github-readme-stats-black-alpha-42.vercel.app/api?username=pp8817&theme=flag-india&show_icons=true)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pp8817" />
+
 
 ---
 

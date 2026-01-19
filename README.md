@@ -3,8 +3,11 @@
 **사용자 경험을 지탱하는 견고한 인프라와 서버를 설계합니다.** <br>
 비즈니스 로직 구현을 넘어, 안정적인 서비스 운영을 위한 아키텍처 설계에 관심이 많습니다. <br>
 
-
-<a href="https://velog.io/@pp8817/posts"><img src="https://img.shields.io/badge/Tech%20Blog-velog-11B57D?style=flat-square&logo=velog&logoColor=white"/></a><a href="mailto:pp8817@naver.com"><img src="https://img.shields.io/badge/Mail-pp8817%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+<div align="left">
+  <a href="https://docs.google.com/document/d/1dD7vzo2QNYn828DvPU-jnzmFP7kDyicMSLJTDbVQyaU/edit?usp=sharing"><img src="https://img.shields.io/badge/Resume-Google%20Docs-4285F4?style=flat-square&logo=google-docs&logoColor=white"/></a>
+  <a href="https://velog.io/@pp8817/posts"><img src="https://img.shields.io/badge/Tech%20Blog-velog-11B57D?style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="mailto:pp8817@naver.com"><img src="https://img.shields.io/badge/Mail-pp8817%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+</div>
 
 <br>
 
@@ -12,6 +15,9 @@
   <img src="https://github-readme-stats-black-alpha-42.vercel.app/api?username=pp8817&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bbbbbb&icon_color=888888" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pp8817" />
 </div>
+
+## 💼 Experience
+- <a href="https://www.yapp.co.kr/"><strong>YAPP</strong></a> | 27기 Server Developer <sub>2025.11 ~ current</sub>
 
 ## 🛠 Tech Stack
 
@@ -83,13 +89,6 @@
 
 - **실시간 통신:** WebSocket과 STOMP 프로토콜을 활용하여 채팅 및 게임 데이터의 실시간 동기화 구현
 - **확장성 고려:** 단일 서버의 한계를 고려하여 Redis Pub/Sub 기반의 메시지 브로커 구조 설계 및 적용
-
----
-
-## 💼 Experience
-
-**[IT 연합 동아리 YAPP 27기](https://www.yapp.co.kr) Server 파트**
-> **Period:** 2025.11 ~ (진행 중)
 
 ---
 

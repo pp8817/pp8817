@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-black-alpha-42.vercel.app/api?username=pp8817&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bbbbbb&icon_color=888888" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pp8817&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pp8817" />
 </div>
 

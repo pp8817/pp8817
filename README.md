@@ -17,6 +17,7 @@
 </div>
 
 ## 💼 Experience
+- SW Maestro 17기  <sub>2026.04 ~ ing</sub></a>
 - <a href="https://www.yapp.co.kr/"><strong>YAPP</strong></a> | 27기 Server Developer <sub>2025.11 ~ 2026.03</sub>
   - 최우수상: `Moit`(모임 일정 관리 서비스), `Weddin`(청첩장 모임 주최자를 위한 모임 관리 서비스)
 

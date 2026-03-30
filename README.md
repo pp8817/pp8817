@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pp8817&count_private=true&show_icons=true&theme=graywhite" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pp8817&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pp8817" />
 </div>
 

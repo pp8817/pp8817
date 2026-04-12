@@ -3,12 +3,6 @@
 **사용자 경험을 지탱하는 견고한 인프라와 서버를 설계합니다.** <br>
 비즈니스 로직 구현을 넘어, 안정적인 서비스 운영을 위한 아키텍처 설계에 관심이 많습니다. <br>
 
-<div align="left">
-  <a href="https://docs.google.com/document/d/1ocVEA9Xrdy9ZU2CZ-eVPX09A7GbpnjQuTFhHyOqKPns/edit?usp=sharing"><img src="https://img.shields.io/badge/Resume-Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white"/></a>
-  <a href="https://velog.io/@pp8817/posts"><img src="https://img.shields.io/badge/Tech%20Blog-velog-11B57D?style=for-the-badge&logo=velog&logoColor=white"/></a>
-  <a href="mailto:pp8817@naver.com"><img src="https://img.shields.io/badge/Mail-pp8817%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
-</div>
-
 <br>
 
 <div align="center">

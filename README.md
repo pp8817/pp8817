@@ -11,6 +11,15 @@
 
 <br>
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pp8817&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pp8817&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="49%"/>
+<br/>
+</div>
+
+<br>
+
 ## 💼 Experience
 - SW Maestro 17기  <sub>2026.04 ~ ing</sub></a>
 - <a href="https://www.yapp.co.kr/"><strong>YAPP</strong></a> | 27기 Server Developer <sub>2025.11 ~ 2026.03</sub>

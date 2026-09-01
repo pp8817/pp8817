@@ -12,10 +12,10 @@ Java와 Spring Boot를 중심으로 백엔드를 개발합니다. 최근에는 P
 
 ## Selected Impact
 
-- 누적 가입자 `7,000명`, MAU 약 `4,000명`의 서비스 기획, 백엔드 개발, 운영 (2026.08 기준)
-- 피크 트래픽 구간에서 가용성 `99.9%`, 에러율 `0.1% 미만`을 유지하면서 인프라 비용 `87% 절감`
-- 인프라/서버 비용을 유지하면서 API 처리량을 `7 TPS → 96 TPS`로 약 13배 개선
-- 외부 포털 연동 성공률을 `0% → 100%`로 높이고 커넥션 대기 시간 p95를 `5s → 0.5s`로 단축
+- **누적 가입자 `7,000명`, MAU 약 `4,000명`**의 서비스 기획, 백엔드 개발, 운영 (2026.08 기준)
+- **상시 실행 인프라를 요청 기반 구조로 전환**해 월 비용 추정치를 **`$110.98 → $3.79~$20.79`**로 낮춤
+- 인증 필터의 요청당 DB 조회를 제거해 k6 안정성 테스트를 **성공률 `99.99%`, p95 `91ms`**로 완주
+- **외부 포털 7초 지연과 50 VU를 재현한 부하 테스트**에서 요청 수락 성공률을 **`0% → 100%`**로 높이고, 커넥션 획득 대기 피크를 **`5s → 약 0.5s`**로 단축
 
 ## Experience
 
@@ -37,10 +37,10 @@ Service: [App Store](https://apps.apple.com/us/app/landit-%EB%9E%9C%EB%94%A7-%EC
 
 Repositories: [Backend](https://github.com/Aragornnnnnn/landit-be) | [AI](https://github.com/Aragornnnnnn/landit-ai) | [Infrastructure](https://github.com/Aragornnnnnn/landit-iac)
 
-- Backend API, AI 응답 생성, 인프라 설정이 맞물리는 지점을 함께 관리했습니다.
-- Sentry 이벤트와 실제 응답을 추적해 AI 응답 검증 실패 원인을 찾고, 복구 경로를 수정한 뒤 운영 배포까지 확인했습니다.
-- 장기 기억 기능은 쓰기와 사용 단계를 분리했습니다. 토큰 사용량, 지연 시간, 저장 결과를 먼저 측정한 뒤 단계적으로 적용할 수 있게 설계했습니다.
-- EventBridge Scheduler, SQS, Backend Consumer로 예약 알림 실행 경계를 나눴습니다. 스케줄 활성화 여부는 배포와 분리해 관리했습니다.
+- **Backend API, AI 응답 생성, 인프라 설정**이 맞물리는 지점을 함께 관리했습니다.
+- **Sentry 이벤트와 실제 응답을 함께 추적**해 AI 응답 검증 실패 원인을 찾고, 복구 경로를 수정한 뒤 운영 배포까지 확인했습니다.
+- 장기 기억 기능은 **쓰기와 사용 단계를 분리**했습니다. 토큰 사용량, 지연 시간, 저장 결과를 먼저 측정한 뒤 단계적으로 적용할 수 있게 설계했습니다.
+- EventBridge Scheduler, SQS, Backend Consumer로 예약 알림의 **실행 경계를 분리**했습니다. 스케줄 활성화 여부는 배포와 별도로 관리했습니다.
 
 ### 척척학사 | 졸업 요건 자동 비교 및 관리 서비스
 
@@ -52,11 +52,11 @@ Service: [Web](https://www.cchaksa.com/) | [App Store](https://apps.apple.com/kr
 
 Repositories: [Backend](https://github.com/cchaksa/cchaksa-backend) | [Infrastructure](https://github.com/cchaksa/cchaksa-be-terraform) | [Scraper](https://github.com/cchaksa/suwon-scraper-v1)
 
-- 요청이 없을 때도 비용이 발생하던 서버 구조를 `API Gateway + Lambda` 중심으로 바꿨습니다. 오래 걸리는 스크래핑 작업은 `SQS + EventBridge Pipe + ECS RunTask`로 분리했습니다.
-- 외부 포털 호출과 데이터 동기화를 하나의 트랜잭션에서 분리하고 비동기 상태 관리 구조를 도입했습니다. 연동 성공률을 `0%에서 100%`로 높이고 커넥션 대기 시간 p95를 `5s에서 0.5s`로 줄였습니다.
-- 반복 조회와 INSERT 병목을 계측한 뒤 bulk 처리와 JDBC batch를 적용했습니다. 데이터 반영 시간을 `16s에서 0.83s`로 줄였습니다.
-- 거대한 CTE 쿼리를 조회, 이력 추출, 애플리케이션 집계 단계로 나눴습니다. API 응답 시간은 `891ms에서 32ms`로 줄었습니다.
-- 인증 필터의 반복 DB 접근을 Caffeine 캐시로 줄여 t3.micro 환경 처리량을 `7 TPS에서 96 TPS`로 높였습니다.
+- 짧은 API는 `API Gateway + Lambda`, 스크래핑은 `SQS + EventBridge Pipe + ECS RunTask`로 분리해 **상시 실행 비용을 사용량 기반 비용으로 전환**했습니다. 월 비용 추정치는 **`$110.98 → $3.79~$20.79`**로 낮아졌습니다.
+- 외부 포털 호출과 DB 반영을 단일 요청에서 분리하고 **비동기 큐와 상태 머신**을 도입했습니다. 외부 포털 7초 지연과 50 VU 부하 테스트에서 **요청 수락 성공률 `0% → 100%`**, 커넥션 획득 대기 피크 **`5s → 약 0.5s`**를 확인했습니다.
+- 학생 1명의 수강 이력 50건 신규 반영 경로를 계측해 건별 `getOrCreate`가 만든 반복 DB 왕복을 찾았습니다. bulk 조회와 삽입, JDBC batch를 적용해 내부 처리 시간을 **`16초 → 0.83초`**로 줄였습니다.
+- 거대한 CTE 쿼리를 졸업 요건 조회, 수강 이력 조회, 애플리케이션 집계로 나눴습니다. Redis 캐시를 적용한 부하 테스트에서 졸업 요건 계산 평균 시간을 **`893ms → 32ms`**로 약 96% 줄였습니다.
+- 인증 필터의 매 요청 DB 조회를 Caffeine 캐시로 제거했습니다. `maxPoolSize=3`을 유지한 k6 안정성 테스트를 **성공률 `99.99%`, p95 `91ms`**로 완주했고, 추가 한계 테스트에서는 **약 `100 TPS` 부근에서 CPU와 JVM Heap이 먼저 한계에 도달**하는 것을 확인했습니다.
 
 <details>
 <summary>관련 기술 글</summary>

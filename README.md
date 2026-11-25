@@ -1,7 +1,8 @@
 <div align="left">
-  <a href="https://velog.io/@pp8817/posts"><img src="https://img.shields.io/badge/Tech%20Blog-velog-11B57D?style=for-the-badge&amp;logo=velog&amp;logoColor=white" alt="기술 블로그"/></a>
   <a href="mailto:pp8817@naver.com"><img src="https://img.shields.io/badge/Mail-pp8817%40naver.com-03C75A?style=for-the-badge&amp;logo=naver&amp;logoColor=white" alt="이메일"/></a>
 </div>
+
+[![velog](https://velo-card.profilecard.workers.dev/api?name=pp8817&layout=compact&tags=%EC%B2%99%EC%B2%99%ED%95%99%EC%82%AC%2CLandit%2CJPA%2CSpring%2CJava&hide_bio=true)](https://velog.io/@pp8817)
 
 ## Tech Stack
 

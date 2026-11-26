@@ -31,22 +31,20 @@
 ## Projects
 
 ### Landit | AI 영어 회화 서비스
+> [공식 사이트](https://www.landit.im/ko)
 
 AI와 영어 대화를 연습하고, 대화 평가에 따라 학습 난이도를 조정하는 서비스입니다.
 
 - **기간** 2026.04 ~ 운영 중
 - **역할** 서비스 기획 참여, 백엔드 공동 개발, AI 개발과 AWS 인프라 구축·운영 전담
 
-[공식 사이트](https://www.landit.im/ko)
-
 ### 척척학사 | 수원대학교 졸업 요건 확인 서비스
+> [App Store](https://apps.apple.com/kr/app/%EC%B2%99%EC%B2%99%ED%95%99%EC%82%AC/id6747005390) · [Google Play](https://play.google.com/store/apps/details?id=com.kunize.uswtimetable)
 
 학교 포털의 수강 이력과 학사 정보를 가져와 졸업 요건 충족 여부를 확인하는 서비스입니다.
 
 - **기간** 2025.02 ~ 운영 중
 - **역할** 초기 백엔드 단독 개발, 기획과 운영 주도
-
-[App Store](https://apps.apple.com/kr/app/%EC%B2%99%EC%B2%99%ED%95%99%EC%82%AC/id6747005390) · [Google Play](https://play.google.com/store/apps/details?id=com.kunize.uswtimetable)
 
 ## Experience
 

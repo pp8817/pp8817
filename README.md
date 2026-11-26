@@ -37,7 +37,7 @@ AI와 영어 대화를 연습하고, 대화 평가에 따라 학습 난이도를
 - **기간** 2026.04 ~ 운영 중
 - **역할** 서비스 기획 참여, 백엔드 공동 개발, AI 개발과 AWS 인프라 구축·운영 전담
 
-[App Store](https://apps.apple.com/kr/app/%EB%9E%9C%EB%94%A7-landit-%EC%98%81%EC%96%B4%ED%9A%8C%ED%99%94-%EC%8A%A4%ED%94%BD-%EC%8A%A4%ED%94%BC%ED%82%B9-%ED%91%9C%ED%98%84-%EB%A6%AC%EC%8A%A4%EB%8B%9D/id6787414201) · [Google Play](https://play.google.com/store/apps/details?id=com.saynow.app)
+[공식 사이트](https://www.landit.im/ko)
 
 ### 척척학사 | 수원대학교 졸업 요건 확인 서비스
 
